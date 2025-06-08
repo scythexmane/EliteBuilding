@@ -53,14 +53,25 @@
       "date": "Completion"
     }
   },
+  
   "company": {
-    "title": "About Our Company",
-    "description": "Our mission is not just to build houses, but to create inspiring spaces for life, growth, and harmony. We combine architecture, nature, and comfort.",
-    "projects": "Successful projects",
-    "area": "Total area",
-    "experience": "Years of experience",
-    "families": "Families living in our homes"
-  },
+    "title": "About the Company",
+    "description": "Our company has been successfully operating in the real estate market for over 15 years, completing more than 25 projects and building over 500,000 m² of residential and commercial properties.",
+    "projects": "completed projects",
+    "area": "constructed area",
+    "experience": "years of experience",
+    "families": "happy families",
+    "projectTypes": "Project Types",
+    "growth": "Project Growth by Year",
+    "residential": "Residential",
+    "commercial": "Commercial",
+    "industrial": "Industrial",
+    "2021": "2021",
+    "2022": "2022",
+    "2023": "2023",
+    "2024": "2024"
+  }
+,
   "newsSection": {
     "title": "Latest News",
     "readMore": "Read more"
