@@ -1,0 +1,173 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About Us",
+    "news": "News",
+    "contacts": "Contacts"
+  },
+  "slides": [
+    {
+      "title": "Apartments with terraces",
+      "subtitle": "In the Regnum Plaza project"
+    },
+    {
+      "title": "Penthouses with city views",
+      "subtitle": "Exclusive offers"
+    },
+    {
+      "title": "Lofts in the city center",
+      "subtitle": "Modern design and comfort"
+    }
+  ],
+  "hero": {
+    "slide1": {
+      "title": "Terrace Apartments",
+      "subtitle": "In the Regnum Plaza project"
+    },
+    "slide2": {
+      "title": "Penthouses with City View",
+      "subtitle": "Exclusive offers"
+    },
+    "slide3": {
+      "title": "Lofts in the City Center",
+      "subtitle": "Modern design and comfort"
+    }
+  },
+  "projects": {
+    "title": "Our Projects",
+    "more": "More Projects",
+    "status": {
+      "soon": "Coming Soon",
+      "on_sale": "On Sale"
+    },
+    "class": {
+      "premium": "Premium",
+      "business": "Business",
+      "comfort": "Comfort"
+    },
+    "clearFilters": "Clear filters",
+    "labels": {
+      "class": "Class",
+      "address": "Address",
+      "date": "Completion"
+    }
+  },
+  "company": {
+    "title": "About Our Company",
+    "description": "Our mission is not just to build houses, but to create inspiring spaces for life, growth, and harmony. We combine architecture, nature, and comfort.",
+    "projects": "Successful projects",
+    "area": "Total area",
+    "experience": "Years of experience",
+    "families": "Families living in our homes"
+  },
+  "newsSection": {
+    "title": "Latest News",
+    "readMore": "Read more"
+  },
+  "news": [
+    {
+      "title": "Sales Launch in the New SKYLINE Project",
+      "description": "We are excited to announce the start of sales in the new SKYLINE residential complex located in the heart of the city."
+    },
+    {
+      "title": "EliteBuild Awarded 'Developer of the Year'",
+      "description": "Our company has been recognized as the top developer in the region for this year."
+    },
+    {
+      "title": "GREEN YARD Construction Completed",
+      "description": "The GREEN YARD project is now finished. Over 250 families have received keys to their new homes."
+    }
+  ],
+  "footer": {
+    "branchesTitle": "Branches in Tashkent",
+    "getDirections": "Get directions",
+    "linksTitle": "Sections",
+    "home": "Home",
+    "about": "About Us",
+    "projects": "Projects",
+    "news": "News",
+    "contact": "Contact",
+    "hours": "Working hours",
+    "rightsReserved": "All rights reserved"
+  },
+  "about": {
+    "title": "About the Company",
+    "welcome": "Welcome to our family",
+    "description1": "Murad Buildings has been a leader in Uzbekistan's construction industry for over 20 years. We create modern residential complexes combining comfort, aesthetics, and advanced technologies.",
+    "description2": "Our goal is to build not just homes, but a way of life. We make dreams of thousands of families come true, ensuring quality, reliability, and innovation.",
+    "backToHome": "Back to Home",
+    "timeline": {
+      "2003": "Murad Buildings was founded",
+      "2005": "Construction of the first residential complex \"Ariston\"",
+      "2008": "The \"Millenium\" residential complex completed",
+      "2012": "Launch of the \"Meridian\" business center",
+      "2015": "The \"Regency\" business center built",
+      "2018": "Start of the \"Green Yard\" project",
+      "2020": "Launch of the flagship project SKYLINE",
+      "2023": "Implementation of digital twins in development"
+    }
+  },
+
+  "newsSection": {
+    "title": "Latest News",
+    "readMore": "Read More"
+  },
+  "newsPage": {
+    "heroTitle": "Latest News & Updates",
+    "heroSubtitle": "Stay informed with the latest events and news from our company.",
+    "featuredTitle": "Featured News",
+    "archiveTitle": "News Archive"
+  },
+  "news": {
+    "0": {
+      "title": "Opening of a New Residential Complex",
+      "description": "We proudly announce the opening of our new residential complex in the city center. Modern living conditions and infrastructure for a comfortable life."
+    },
+    "1": {
+      "title": "Gift Giveaway Among Clients",
+      "description": "We held a prize draw among our clients in honor of the company's anniversary. Congratulations to the winners!"
+    },
+    "2": {
+      "title": "New Mortgage Opportunities",
+      "description": "We offer updated mortgage terms with a low interest rate and flexible repayment options."
+    },
+    "3": {
+      "title": "Construction of a New District Begins",
+      "description": "Construction has begun on a new residential district with parks, schools, and shops within walking distance."
+    },
+    "4": {
+      "title": "Interview with the CEO",
+      "description": "Our CEO shared insights into future projects, company values, and development priorities."
+    },
+    "5": {
+      "title": "Courtyard Landscaping Completed",
+      "description": "Several residential complexes have completed landscaping with benches, greenery, and children's playgrounds."
+    },
+    "6": {
+      "title": "Partnership with Design Studio",
+      "description": "A cooperation agreement has been signed with a leading architecture studio to create unique facades."
+    },
+    "7": {
+      "title": "Best Residential Project Award",
+      "description": "Our complex was recognized as the best residential project of the year by the National Construction Association."
+    },
+    "8": {
+      "title": "Launch of Riverside Residential Complex",
+      "description": "A grand opening of a new riverside residential complex with panoramic river views took place."
+    },
+    "9": {
+      "title": "New Sales Office Opened",
+      "description": "A new modern sales office has been opened for the convenience of our clients and partners."
+    },
+    "10": {
+      "title": "Holiday Apartment Promotion",
+      "description": "To celebrate the New Year, we are offering special discounts and bonuses for apartment purchases."
+    },
+    "11": {
+      "title": "Bridge Construction Completed",
+      "description": "Construction of a new transport bridge connecting the district to the city center has been completed."
+    }
+  }
+}
+
